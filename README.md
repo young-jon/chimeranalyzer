@@ -10,3 +10,7 @@ I wrote up the results in a paper that ultimately was never submitted.
 See AnnualLecture3_new.pdf for a brief presentation I gave at the Univeristy of Maryland Medical Center about ChimerAnalyzer.
 
 I presented this work as a poster at the Association for Molecular Pathology 2012 Annual Meeting in Long Beach, CA.
+
+## Requirements
+Python 2.7
+Tkinter
