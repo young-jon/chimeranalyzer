@@ -12,5 +12,4 @@ See AnnualLecture3_new.pdf for a brief presentation I gave at the Univeristy of 
 I presented this work as a poster at the Association for Molecular Pathology 2012 Annual Meeting in Long Beach, CA.
 
 ## Requirements
-Python 2.7
-Tkinter
+Python 2.7, Tkinter
