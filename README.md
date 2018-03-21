@@ -13,3 +13,8 @@ I presented this work as a poster at the Association for Molecular Pathology 201
 
 ## Requirements
 Python 2.7, Tkinter
+
+## ChimerAnalyzer's GUI
+![alt text](https://github.com/young-jon/chimeranalyzer/raw/master/gui_screenshot_new.png)
+
+
